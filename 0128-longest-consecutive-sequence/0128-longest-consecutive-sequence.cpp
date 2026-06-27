@@ -5,7 +5,7 @@ public:
         sort(nums.begin(), nums.end());
         int first = nums[0];
         int count = 1;
-        int mcount = 0;
+        int mcount = 1;
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] != nums[i - 1]) {
                 first = first + 1;
@@ -18,7 +18,6 @@ public:
                 mcount = max(count, mcount);
             }
         } 
-        if(mcount == 1) mcount = 0;
         return mcount;
     }
 };
