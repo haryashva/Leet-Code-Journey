@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haryashva/Leet-Code-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/haryashva/Leet-Code-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/haryashva/Leet-Code-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/haryashva/Leet-Code-Journey/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/haryashva/Leet-Code-Journey/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/haryashva/Leet-Code-Journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/haryashva/Leet-Code-Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -78,6 +79,7 @@
 | [0035-search-insert-position](https://github.com/haryashva/Leet-Code-Journey/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/haryashva/Leet-Code-Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/haryashva/Leet-Code-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/haryashva/Leet-Code-Journey/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/haryashva/Leet-Code-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/haryashva/Leet-Code-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
